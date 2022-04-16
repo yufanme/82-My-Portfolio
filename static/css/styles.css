@@ -244,7 +244,7 @@ hr {
   }
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 550px) {
   .container-fluid {
     text-align: center;
   }
