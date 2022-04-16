@@ -1,0 +1,251 @@
+body {
+  background-color: #343A40;
+  font-family: 'Noto Serif SC', sans-serif;
+}
+
+.self-introduce {
+  padding: 15% 0 5% 0;
+}
+
+.gif-boy {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container-fluid {
+  padding: 1% 10% 8%;
+}
+
+.yellow-font {
+  color: #FFC107;
+}
+
+.purple-font {
+  color: #7952B3;
+}
+
+.white-font {
+  color: #E1E8EB;
+}
+
+#navigation {
+  font-family: "Note Sans SC", sans-serif;
+}
+
+.nav-link-text {
+  color: white;
+}
+
+.nav-link-text:hover {
+  color: #7952B3;
+}
+
+.navbar-brand {
+  font-size: 2rem;
+}
+
+.bold-font {
+  font-weight: bolder;
+}
+
+.title-text {
+  font-weight: bolder;
+  word-spacing: 1.5rem;
+  font-size: 3rem;
+}
+
+.programer {
+  padding-bottom: 3rem;
+}
+
+.introduce {
+  line-height: 2;
+}
+
+.BUTTON_PFF {
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  color: #343A40;
+  font-family: Helvetica;
+  font-size: 18px;
+  font-weight: 100;
+  padding: 8px;
+  background-color: #FFC107;
+  -webkit-box-shadow: 1px 1px 20px 0 #000000;
+  -moz-box-shadow: 1px 1px 20px 0 #000000;
+  box-shadow: 1px 1px 20px 0 #000000;
+  text-shadow: 1px 1px 20px #000000;
+  border: solid #FFC107 1px;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+
+.BUTTON_PFF:hover {
+  border: solid #7952B3 1px;
+  background: #7952B3;
+  background-image: -webkit-linear-gradient(top, #7952B3, #7952B3);
+  background-image: -moz-linear-gradient(top, #7952B3, #7952B3);
+  background-image: -ms-linear-gradient(top, #7952B3, #7952B3);
+  background-image: -o-linear-gradient(top, #7952B3, #7952B3);
+  background-image: -webkit-gradient(to bottom, #7952B3, #7952B3);
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  text-decoration: none;
+}
+
+#about {
+  padding: 1% 10% 3%;
+}
+
+.mail-img {
+  margin-right: 0.5rem;
+}
+
+.page-title {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.page-title img {
+  height: 40px;
+  width: auto;
+  margin-right: 20px;
+  align-items: center;
+}
+
+.big-text {
+  font-weight: bolder;
+  font-size: 2.5rem;
+  letter-spacing: 3px;
+}
+
+.my-profile {
+  color: white;
+  padding-top: 2%;
+  line-height: 2;
+  text-align: center;
+  margin-bottom: 2%;
+}
+
+.skills {
+  display: grid;
+}
+
+.skill1_img {
+  width: 40%;
+  float: left;
+  margin-right: 30px;
+}
+
+.skill2_img {
+  width: 40%;
+  float: right;
+  margin-left: 0px;
+  margin-top: 10px;
+}
+
+.BUTTON_MZU {
+  background: #7952B3;
+  background-image: -webkit-linear-gradient(top, #7952B3, #7952B3);
+  background-image: -moz-linear-gradient(top, #7952B3, #7952B3);
+  background-image: -ms-linear-gradient(top, #7952B3, #7952B3);
+  background-image: -o-linear-gradient(top, #7952B3, #7952B3);
+  background-image: -webkit-gradient(to bottom, #7952B3, #7952B3);
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  color: #E1E8EB;
+  font-family: Helvetica;
+  font-size: 16px;
+  font-weight: 300;
+  padding: 10px;
+  -webkit-box-shadow: 1px 1px 20px 0 #000000;
+  -moz-box-shadow: 1px 1px 20px 0 #000000;
+  box-shadow: 1px 1px 20px 0 #000000;
+  text-shadow: 1px 1px 20px #000000;
+  border: solid #7952B3 1px;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+
+.BUTTON_MZU:hover {
+  border: solid #FFC107 1px;
+  background: #FFC107;
+  background-image: -webkit-linear-gradient(top, #FFC107, #FFC107);
+  background-image: -moz-linear-gradient(top, #FFC107, #FFC107);
+  background-image: -ms-linear-gradient(top, #FFC107, #FFC107);
+  background-image: -o-linear-gradient(top, #FFC107, #FFC107);
+  background-image: -webkit-gradient(to bottom, #FFC107, #FFC107);
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  text-decoration: none;
+}
+
+.send-button {
+  margin-top: 1.5rem;
+}
+
+.message-area {
+  padding-top: 3%;
+  text-align: center;
+}
+
+.form-labels {
+  font-weight: 780;
+}
+
+.send-button {}
+
+hr {
+  color: #E1E8EB;
+  border: 0 none;
+}
+
+#footer {
+  margin-top: 2rem;
+}
+
+.icon-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer-icon {
+  float: left;
+}
+
+.footer-link {
+  padding: 0 10px;
+  margin-right: 1rem;
+}
+
+.copyright {
+  text-align: center;
+  margin-top: 3rem;
+}
+
+@media screen and (min-width: 1500px) {
+  .container-fluid {
+    padding: 1% 20% 8%;
+  }
+
+  #about {
+    padding: 1% 20% 3%;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  .container-fluid {
+    text-align: center;
+  }
+}
