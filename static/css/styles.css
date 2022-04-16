@@ -253,4 +253,10 @@ hr {
     width: 100%;
     height: auto;
   }
+
+  .my-pic-area {
+    text-align: center;
+    padding-left: 10%
+  }
+
 }
