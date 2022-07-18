@@ -254,6 +254,7 @@ hr {
     height: auto;
   }
 
+  /* make my-picture center when in phone size  */
   .my-pic-area {
     text-align: center;
     padding-left: 10%
